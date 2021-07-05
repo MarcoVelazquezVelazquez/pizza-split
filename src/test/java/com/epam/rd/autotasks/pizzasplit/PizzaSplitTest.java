@@ -45,7 +45,12 @@ public class PizzaSplitTest {
                 Arguments.of("1", "2 8"),
                 Arguments.of("1", "1 8"),
                 Arguments.of("5", "5 8"),
-                Arguments.of("7", "7 8")
+                Arguments.of("7", "7 8"),
+                Arguments.of("3", "3 5"),
+                Arguments.of("2", "2 7"),
+                Arguments.of("10", "10 1"),
+                Arguments.of("1", "3 9"),
+                Arguments.of("2", "4 6")
         );
     }
 
