@@ -1,6 +1,12 @@
 # Pizza Split
 
 Proceed to [PizzaSplit](src/main/java/com/epam/rd/autotasks/pizzasplit/PizzaSplit.java) class
-and write a program that reads number of people and number of pieces per pizza and then
-prints minimum number of pizzas to order to split all the pizzas equally and with no remainder.
+and write a program that reads: 
+- number of people;
+- number of pieces per pizza.
+
+It is guaranteed that it would be integers.
+
+Program must print:
+- the minimum number of pizzas (not zero) so that everyone has an equal number of slices and not one is left.
  
