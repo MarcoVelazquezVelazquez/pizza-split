@@ -1,16 +1,24 @@
 # Pizza Split
 
-Proceed to [PizzaSplit](src/main/java/com/epam/rd/autotasks/pizzasplit/PizzaSplit.java) class
-and write a program that **reads**: 
+The purpose of this exercise is to familiarize you with basic conditional and cyclic operations.
+
+Estimated workload of this exercise is _20 minutes_.
+
+### Description
+Please, proceed to [PizzaSplit](src/main/java/com/epam/rd/autotasks/pizzasplit/PizzaSplit.java) class.
+The program must read two values from System.in:
 - number of people;
 - number of pieces per pizza.
 
-It is guaranteed that it would be positive integers.
+It is guaranteed that this values are positive integers.
 
-Program must **print**:
-- the minimum number of pizzas (not zero) so that everyone has an equal number of slices and not one is left.
+Then the program must print the minimum number of pizzas (not zero) so that everyone has an equal number of slices and no slice is left.
 
-Format of the input: `Enter number of people and number of pizza pieces: <enter_value>`
+### Example
+Input:
 
-Format of the output: `Minimum number of pizzas is <value>`
- 
+    12 8
+
+Output:
+
+    3
