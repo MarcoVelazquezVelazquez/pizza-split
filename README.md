@@ -15,10 +15,10 @@ It is guaranteed that this values are positive integers.
 Then the program must print the minimum number of pizzas (not zero) so that everyone has an equal number of slices and no slice is left.
 
 ### Example
-Input:
 
-    12 8
+---
+Input: `12 8`
 
-Output:
+Output: `3`
 
-    3
+---
