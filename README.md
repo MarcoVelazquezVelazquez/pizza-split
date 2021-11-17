@@ -6,7 +6,7 @@ Estimated workload of this exercise is _20 minutes_.
 
 ### Description
 Please, proceed to [PizzaSplit](src/main/java/com/epam/rd/autotasks/pizzasplit/PizzaSplit.java) class.
-The program must read two values from System.in:
+The program must read two values from `System.in`:
 - number of people;
 - number of pieces per pizza.
 
